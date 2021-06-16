@@ -1,0 +1,306 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1556; Version 1909; 64bit' Language: 'en' Physical Memory: 16320 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Master\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/WORK/training/UnityTraining/[Training]Project1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51338
+Successfully changed project path to: D:/WORK/training/UnityTraining/[Training]Project1
+D:/WORK/training/UnityTraining/[Training]Project1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path D:/Master/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/WORK/training/UnityTraining/[Training]Project1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0x1287)
+    Vendor:   
+    VRAM:     2017 MB
+    Driver:   10.18.13.6869
+Initialize mono
+Mono path[0] = 'D:/Master/Unity/Editor/Data/Managed'
+Mono path[1] = 'D:/Master/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Master/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56160
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Master/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001274 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 24.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.025 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000892 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.879 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 2.193900 ms (FindLiveObjects: 0.228300 ms CreateObjectMapping: 0.072100 ms MarkObjects: 1.750500 ms  DeleteObjects: 0.141500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75076e30b8b84ebf5e20060e44b32f1e') in 0.032960 seconds
+  Import took 0.044932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.550432 seconds.
+  path: Assets/Material
+  artifactKey: Guid(f4a2d66466783c940ba96a7aee9b2c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material using Guid(f4a2d66466783c940ba96a7aee9b2c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8022655323ef614894523c2249024257') in 0.002174 seconds
+  Import took 0.022642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.289533 seconds.
+  path: Assets/Material/Neck_Mech_Walker_by_3DHaupt.unitypackage
+  artifactKey: Guid(852ac47a822f8b54193132a4f40bed1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker_by_3DHaupt.unitypackage using Guid(852ac47a822f8b54193132a4f40bed1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cf3563656b0f380d01ccfaa624cb287') in 0.027947 seconds
+  Import took 0.040158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.796666 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(681d4d572e48bd14a8d9f3069e23f58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(681d4d572e48bd14a8d9f3069e23f58a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c730778dfed854a0a9bcd7da763186d9') in 0.175024 seconds
+  Import took 0.186816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.935201 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(b1b33a8f220d23344a3d1fa8bbd26105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(b1b33a8f220d23344a3d1fa8bbd26105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95108bee2e921bca3252a6af08dd27c9') in 0.001943 seconds
+  Import took 0.004700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000669 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(b1b33a8f220d23344a3d1fa8bbd26105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(b1b33a8f220d23344a3d1fa8bbd26105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95108bee2e921bca3252a6af08dd27c9') in 0.001640 seconds
+  Import took 0.017875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 302.351815 seconds.
+  path: Assets/Material/New Prefab.prefab
+  artifactKey: Guid(41d624b411421694f81d45339dc67ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Prefab.prefab using Guid(41d624b411421694f81d45339dc67ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd4fb59db6954943b8b7229527ee4441') in 0.011303 seconds
+  Import took 0.039864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 247.795043 seconds.
+  path: Assets/Neck_Mech_Walker
+  artifactKey: Guid(b15d288ea124a6843bd1b74d0a96ad8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Neck_Mech_Walker using Guid(b15d288ea124a6843bd1b74d0a96ad8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '260fa1df8167d5e5b7a4dd4c3eefbdd0') in 0.002217 seconds
+  Import took 0.020140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.090404 seconds.
+  path: Assets/Material/Neck_Mech_Walker/Control Module.mat
+  artifactKey: Guid(17676d951a6cb1d4fa5d49e6328bb960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/Control Module.mat using Guid(17676d951a6cb1d4fa5d49e6328bb960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5ebd6a0420702116dceecefef22e066') in 0.276074 seconds
+  Import took 0.278215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Material/Neck_Mech_Walker/Hydraulic_nmap.jpg
+  artifactKey: Guid(19d7b9078095ff14f959f1331744d0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/Hydraulic_nmap.jpg using Guid(19d7b9078095ff14f959f1331744d0db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a00ff5ba950a5a758220d34c6cd9ed19') in 0.057753 seconds
+  Import took 0.072336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Material/Neck_Mech_Walker/Neck_Mech_Walker_by_3DHaupt.fbx
+  artifactKey: Guid(cccd7279ec1790c47bc498b9733ec83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/Neck_Mech_Walker_by_3DHaupt.fbx using Guid(cccd7279ec1790c47bc498b9733ec83b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4198622503703431784efd4d5c99a879') in 0.681668 seconds
+  Import took 0.687540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Material/Neck_Mech_Walker/walker_color.jpg
+  artifactKey: Guid(38047a10d93ac6b40972d15812e8fd31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/walker_color.jpg using Guid(38047a10d93ac6b40972d15812e8fd31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f86ae131a4df81321cf43b047e3b31b0') in 0.008629 seconds
+  Import took 0.010799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Material/Neck_Mech_Walker/ref.jpg
+  artifactKey: Guid(b9b6943f03a453a4ba0afe7366ce2b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/ref.jpg using Guid(b9b6943f03a453a4ba0afe7366ce2b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e0fbb5a29aec6059c81a48b9055aa1d') in 0.010501 seconds
+  Import took 0.024738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Material/Neck_Mech_Walker/Control_Module_color.jpg
+  artifactKey: Guid(bdf350194617f1347a6c98472cd5c0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/Control_Module_color.jpg using Guid(bdf350194617f1347a6c98472cd5c0a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec37305fc311c4c2f8d8ffc681a8e639') in 0.012145 seconds
+  Import took 0.014848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Material/Neck_Mech_Walker/Control_Module_rough.jpg
+  artifactKey: Guid(82dafed5733c4ef469912cfb36c7254d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/Control_Module_rough.jpg using Guid(82dafed5733c4ef469912cfb36c7254d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12359084d8a529f522e8bf802793e8b5') in 0.007749 seconds
+  Import took 0.010237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/Material/Neck_Mech_Walker/Neck_Mech.mat
+  artifactKey: Guid(8f3b3031ba09d9842bd0999266ae288a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/Neck_Mech.mat using Guid(8f3b3031ba09d9842bd0999266ae288a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28cb94b038c7d9b1f047ee6c4c422d6') in 0.018183 seconds
+  Import took 0.021641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Material/Neck_Mech_Walker/walker_rough.jpg
+  artifactKey: Guid(d8697483db0a8b449a409c0c1eeba425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/walker_rough.jpg using Guid(d8697483db0a8b449a409c0c1eeba425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6a0d63f5ef1107af4d432e3781975ab') in 0.008753 seconds
+  Import took 0.012301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Material/Neck_Mech_Walker/Hydraulic_rough.jpg
+  artifactKey: Guid(b62811643a9fa6a4d8d92a9a367ce5ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/Hydraulic_rough.jpg using Guid(b62811643a9fa6a4d8d92a9a367ce5ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1befd74812beec80a3a3ae82744ac3e1') in 0.018006 seconds
+  Import took 0.020881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Material/Neck_Mech_Walker/walker_nmap.jpg
+  artifactKey: Guid(0839ee4987c1be74da72850fa6a98ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/walker_nmap.jpg using Guid(0839ee4987c1be74da72850fa6a98ca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae399b420e5f17707e01b53bcf8e9b61') in 0.009923 seconds
+  Import took 0.013066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Material/Neck_Mech_Walker/Walker_Glas.mat
+  artifactKey: Guid(ed42c39933f1241419c29bd9b5fbd19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/Walker_Glas.mat using Guid(ed42c39933f1241419c29bd9b5fbd19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2b6182fcb6d4ed23c7310d22637cc7c') in 0.017782 seconds
+  Import took 0.020732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Material/Neck_Mech_Walker/Hydraulic_col.jpg
+  artifactKey: Guid(ce3ec90179a9465428eb45071c83d17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/Hydraulic_col.jpg using Guid(ce3ec90179a9465428eb45071c83d17c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdcc8c5ec68e3392cfb9381b5d39b2a0') in 0.008950 seconds
+  Import took 0.011785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Material/Neck_Mech_Walker/Walker.mat
+  artifactKey: Guid(4629a6b2cdca99f468e054e3f03ad611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/Walker.mat using Guid(4629a6b2cdca99f468e054e3f03ad611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1bad59e065d1c4ddab0eaaa6a0ac2be') in 0.015059 seconds
+  Import took 0.017178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Material/Neck_Mech_Walker/Control_Module_nmap.jpg
+  artifactKey: Guid(761f5a9d0dbead3448e701a8b0438315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Neck_Mech_Walker/Control_Module_nmap.jpg using Guid(761f5a9d0dbead3448e701a8b0438315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a39888a0334aad05f139d47f156a617') in 0.010872 seconds
+  Import took 0.013395 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001017 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.813 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 61.4 MB.
+System memory in use after: 61.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1607.
+Total: 1.596700 ms (FindLiveObjects: 0.152900 ms CreateObjectMapping: 0.029900 ms MarkObjects: 1.338500 ms  DeleteObjects: 0.074600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 625.165172 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(8b70990f531b39b4885ef5c069557aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(8b70990f531b39b4885ef5c069557aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cca986594b11aaebe54f1aa2b66fe85') in 0.005056 seconds
+  Import took 0.007131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003904 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(8b70990f531b39b4885ef5c069557aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(8b70990f531b39b4885ef5c069557aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cca986594b11aaebe54f1aa2b66fe85') in 0.001443 seconds
+  Import took 0.004011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.953884 seconds.
+  path: Assets/Prefabs/Neck_Mech_Walker_by_3DHaupt.prefab
+  artifactKey: Guid(64bdaef2d6d390040b3c262e18c0d122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Neck_Mech_Walker_by_3DHaupt.prefab using Guid(64bdaef2d6d390040b3c262e18c0d122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb16f50bc5164e0463ce261cccbb8b3c') in 0.122381 seconds
+  Import took 0.126814 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
